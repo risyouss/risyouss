@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis étudiant en Business Intelligence and Big Data Analytics. Je programme en utilisant des langages de programmation tels que C et Python sur des plateformes comme Kubernetes pour créer des projets liés à l'apprentissage automatique, le traitement de données,le traitement d'image, et la compréhension du langage naturel. Mon objectif est d'utiliser ces compétences pour aider les entreprises à prendre des décisions éclairées en utilisant des données précises et fiables.
+Je suis un étudiant en 1er année master Business Intelligence and Big Data Analytics. Je programme en utilisant des différents langages de programmation sur des différents plateformes pour créer des projets liés à l'apprentissage automatique, le traitement de données,le traitement d'image, et la compréhension du langage naturel. Mon objectif est d'utiliser ces compétences pour aider les entreprises à prendre des décisions éclairées en utilisant des données précises et fiables.
 
 
 # 💻 Tech Stack:
