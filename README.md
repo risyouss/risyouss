@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate data scientist driven by uncovering new insights from data and developing smart solutions for complex challenges. My goal is to turn data into actionable insights to contribute to research and innovation, particularly in developing advanced predictive models.
+Data Scientist | Machine Learning & AI Specialist
 
 
 
