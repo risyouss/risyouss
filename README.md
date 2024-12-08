@@ -1,5 +1,5 @@
 ##     About Me:
-Artificial Intelligence Engineer
+Junior Data scientist 
 
 
 
